@@ -1,7 +1,10 @@
-Class Vitor Abreu:
-  def __init__(self):
-    self.nome = "Vitor Abreu"
-    self.idade = 17
-    self.graduação = "Estudante de Analise e Desenvolvimento de Sistemas"
-    self.tecnologias = "Python", "Java", "HTML5", "CSS", "Javascript"
+
+Class VitorAbreu:  
+ﾠﾠﾠdef __ __init__ __(self):  
+ﾠﾠﾠﾠﾠﾠself.nome = "Vitor Abreu"  
+ﾠﾠﾠﾠﾠﾠself.idade = 17  
+ﾠﾠﾠﾠﾠﾠself.graduação = "Estudante de Analise e Desenvolvimento de Sistemas"  
+ﾠﾠﾠﾠﾠﾠself.tecnologias = "Python", "Java", "HTML5", "CSS", "Javascript"  
+ﾠﾠﾠﾠﾠﾠself.linkedin "<https://www.linkedin.com/in/vitor-abreu-silva/>"  
+
     
